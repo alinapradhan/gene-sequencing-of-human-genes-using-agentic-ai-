@@ -8,7 +8,7 @@ This project implements an **Agentic AI** system for gene sequencing analysis. I
 
 1. **Sequence Alignment Agent** - Aligns and compares gene sequences  
 2. **Mutation Detection Agent** - Identifies and analyzes genetic mutations 
-3. **Pattern Recognition Agent** - Discovers conserved regions, motifs, and repeating patterns 
+3. **Pattern Recognition Agent** - Discovers conserved regions, motifs, and repeating patterns  
   
 ## Features
 
