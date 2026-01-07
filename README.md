@@ -11,7 +11,7 @@ This project implements an **Agentic AI** system for gene sequencing analysis. I
 3. **Pattern Recognition Agent** - Discovers conserved regions, motifs, and repeating patterns  
   
 ## Features
-
+ 
 -  **Synthetic Dataset Generation** - Creates realistic synthetic gene sequence data
 -  **Multi-Agent AI System** - Three specialized agents working in coordination
 -  **Mutation Detection** - Identifies substitutions, transitions, and transversions
